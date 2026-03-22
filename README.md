@@ -12,3 +12,5 @@ Clone de repo:
 ```bash
 git clone https://github.com/jouwgebruikersnaam/crypto-trading-dashboard.git
 cd crypto-trading-dashboard
+pip install -r requirements.txt
+streamlit run app.py
